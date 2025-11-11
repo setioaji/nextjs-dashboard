@@ -19,3 +19,10 @@ tamba database
 
 # ch10 Adding Search and Pagination
 - butuh pemahaman extra
+
+# Chapter 11 Mutating Data
+- What React Server Actions are and how to use them to mutate data.
+- How to work with forms and Server Components.
+- Best practices for working with the native FormData object, including type validation.
+- How to revalidate the client cache using the revalidatePath API.
+- How to create dynamic route segments with specific IDs.
