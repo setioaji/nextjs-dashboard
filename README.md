@@ -33,3 +33,11 @@ crud halaman invoices
 - How to use the special error.tsx file to catch errors in your route segments, and show a fallback UI to the user.
 - How to use the notFound function and not-found file to handle 404 errors (for resources that don’t exist).
 tray catch and exception
+
+# Chapter 13 Improving Accessibility
+- How to use eslint-plugin-jsx-a11y with Next.js to implement accessibility best practices.
+- How to implement server-side form validation.
+- How to use the React useActionState hook to handle form errors, and display them to the user.
+error karena npm lama, lewati dulu
+
+
