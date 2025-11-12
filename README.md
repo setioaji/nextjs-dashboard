@@ -26,3 +26,10 @@ tamba database
 - Best practices for working with the native FormData object, including type validation.
 - How to revalidate the client cache using the revalidatePath API.
 - How to create dynamic route segments with specific IDs.
+
+crud halaman invoices
+
+# Chapter 12 Handling Errors
+- How to use the special error.tsx file to catch errors in your route segments, and show a fallback UI to the user.
+- How to use the notFound function and not-found file to handle 404 errors (for resources that don’t exist).
+tray catch and exception
