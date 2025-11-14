@@ -40,4 +40,10 @@ tray catch and exception
 - How to use the React useActionState hook to handle form errors, and display them to the user.
 error karena npm lama, lewati dulu
 
+# Chapter 14 Adding Authentication
+- What is authentication.
+- How to add authentication to your app using NextAuth.js.
+- How to use Proxy to redirect users and protect your routes.
+- How to use React's useActionState to handle pending states and form errors.
 
+add AUTH_SECRET in .env
