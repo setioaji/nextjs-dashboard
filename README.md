@@ -54,5 +54,12 @@ add AUTH_SECRET in .env
 - How to add an Open Graph image using metadata.
 - How to add a favicon using metadata.
 
+add metadata for
+/login page.
+/dashboard/ page.
+/dashboard/customers page.
+/dashboard/invoices/create page.
+/dashboard/invoices/[id]/edit page.
+
 
 
