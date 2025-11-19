@@ -47,3 +47,12 @@ error karena npm lama, lewati dulu
 - How to use React's useActionState to handle pending states and form errors.
 
 add AUTH_SECRET in .env
+
+# Chapter 15 Adding Metadata
+- What metadata is.
+- Types of metadata.
+- How to add an Open Graph image using metadata.
+- How to add a favicon using metadata.
+
+
+
